@@ -9,6 +9,7 @@
 (require 'mine-os)
 (require 'mine-eshell)
 (require 'mine-isearch)
+(require 'mine-env)
 (if (require 'mine-pkgmgt)
     (require 'mine-load-custom))
 
