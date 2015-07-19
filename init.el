@@ -10,6 +10,7 @@
 (require 'mine-eshell)
 (require 'mine-isearch)
 (require 'mine-env)
+(require 'mine-sbt)
 (if (require 'mine-pkgmgt)
     (require 'mine-load-custom))
 
